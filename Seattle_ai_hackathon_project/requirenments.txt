@@ -1,0 +1,2 @@
+numpy==1.24.3
+rich==13.3.5  # Optional: For better console visualization
